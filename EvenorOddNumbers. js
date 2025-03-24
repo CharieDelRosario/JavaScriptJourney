@@ -1,0 +1,12 @@
+console.log("This is to display if the number is even or odd number. \n ");
+
+
+let number = 51;
+
+if (number / 2) {
+  console. log(number, " is even number.");
+}
+else 
+{
+  console.log(number, " is odd number.");
+}
