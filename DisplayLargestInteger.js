@@ -1,14 +1,13 @@
-console.log("This is to display the largest  integer among 50 and 100. \n ");
+console.log("This is to display the largest number among two integers. \n ");
 
-let num1 = 50;
-let num2 = 100;
-let value = num1 && num2; 
+let num1 = 5000;
+let num2 = 1000000;
 
 if (num1 > num2) 
 {
-  console. log(value, " is bigger.");
+  console. log(num1, " is largest.");
 } 
-else (num2>num1)
+else 
 {
-  console.log(value, " is bigger.");
+  console.log(num2, " is largest.");
 }
