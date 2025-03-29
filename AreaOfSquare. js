@@ -1,0 +1,9 @@
+function areaofSquare(side)
+{
+if(side >= 0)
+ {
+   let area = side**2;
+    console.log("The area of the square is: ", area  );
+  }
+}
+  areaofSquare(9)
