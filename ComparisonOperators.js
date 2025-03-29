@@ -1,4 +1,4 @@
-console.log("Comparison Operators");
+console.log("Comparison Operators \n");
 
 
 console.log("Ternary Operator");
