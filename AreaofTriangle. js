@@ -1,0 +1,9 @@
+function areaofTriangle(side,base,height)
+{
+if(base && height >= 0)
+ {
+   let area = side*base*height;
+    console.log("The area of the triangle is: ", area  );
+  }
+}
+  areaofTriangle(0.5,5,6)
