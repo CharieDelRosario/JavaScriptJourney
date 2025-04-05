@@ -1,0 +1,7 @@
+console.log("Create a function that takes the age in years and returns the age in days. ");
+function age(age)
+{
+  let days=365*age;
+ console.log(days);
+}
+age(18)
